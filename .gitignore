@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 data
+model
+Inference
+tf_model
+keras_to_tensorflow
