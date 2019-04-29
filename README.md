@@ -18,7 +18,7 @@ Intel-Hackathon
 1) Setup Project Dependencies:
 `$ ./setup.sh`
 
-2) If you want to **train** the network:
+2) If you want to **Train** the network:
 `$ ./train.sh`
 
 3) If you want to **Test** the model:
