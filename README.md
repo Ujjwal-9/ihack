@@ -15,18 +15,18 @@ Intel-Hackathon
     +-- model               (stores keras h5 models)
     +-- tf_models           (stores tf pb models)     
 ```
-SETUP THE PROJECT DEPENDENCIES:
-1) RUN `./setup.sh`
+1) Setup Project Dependencies:
+```$ ./setup.sh```
 
-IF YOU WANT TO TRAIN THE NETWORK THEN:
-2) RUN `./train.sh`
+2) If you want to **train** the network:
+```$ ./train.sh```
 
-IF YOU WANT TO TEST THE NETWORK:
-3) RUN `python test.py`
+3) If you want to **Test** the model:
+```$ python test.py```
 
-CONVERT YOUR MODEL TO Protobuf Format:
-4) RUN `./h52pb.sh`
+4) Convert your model to protopub format - tensorflow (openvino compatible):
+```$ ./h52pb.sh```
 
-CONVERT PB to IR:
-5) RUN `./pb2IR.sh`
+5) Convert PB to IR:
+```$ ./pb2IR.sh```
 
