@@ -14,24 +14,26 @@ Intel-Hackathon
     +-- Inference/          (stores openvino IR models)
     +-- model               (stores keras h5 models)
     +-- tf_models           (stores tf pb models)     
-```
+
 1) Setup Project Dependencies:
 
-```$ ./setup.sh```
+`$ ./setup.sh`
 
 2) If you want to **train** the network:
 
-```$ ./train.sh```
+`$ ./train.sh`
 
 3) If you want to **Test** the model:
 
-```$ python test.py```
+`$ python test.py`
 
 4) Convert your model to protopub format - tensorflow (openvino compatible):
 
-```$ ./h52pb.sh```
+`$ ./h52pb.sh`
 
 5) Convert PB to IR:
 
-```$ ./pb2IR.sh```
+`$ ./pb2IR.sh`
+```
+
 
