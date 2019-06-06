@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 data
-model
-Inference
-tf_model
-keras_to_tensorflow
+references
+frcnn/models
+frcnn/test
+frcnn/.ipynb_checkpoints
