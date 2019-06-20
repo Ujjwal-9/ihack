@@ -4,3 +4,9 @@ references
 frcnn/models
 frcnn/test
 frcnn/.ipynb_checkpoints
+model
+snapshots
+inferences
+tf_model
+utils/keras_to_tensorflow
+final
