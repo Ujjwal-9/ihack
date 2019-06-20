@@ -1,7 +1,9 @@
 # Intel-Hackathon
 Making Autonomous Vehicles Safer For Humans
 
-DIRECTORY STRUCTURE:
+Weights can be downloaded from this link https://drive.google.com/drive/folders/1pgSH5a9Mk8yZRhGE_XMeNza84qWDtkEN?usp=sharing
+
+DIRECTORY STRUCTURE (OLD):
 
 ```
 Intel-Hackathon
